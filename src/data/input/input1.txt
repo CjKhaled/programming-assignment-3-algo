@@ -1,0 +1,7 @@
+4
+a 3
+b 7
+c 2
+d 5
+abcdabcdabcdabcdabcdabcdabc
+dcbaabcddcbaabcddcbaabcdabc

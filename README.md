@@ -33,7 +33,7 @@ for i = 0 to n
 for j = 0 to m
   M[0][j] = 0
 
-for i = 1 to n  # runtime is O(m * n)
+for i = 1 to n          # runtime is O(m * n)
   for j = 1 to m
     if a_i == b_j
       M[i][j] = max(v(a_i) + M[i-1][j-1], M[i-1][j], M[i][j-1])
@@ -50,7 +50,7 @@ i = n
 j = m
 result = empty list
 
-while i > 0 and j > 0 runtime is O(m + n)
+while i > 0 and j > 0           # runtime is O(m + n)
   if a_i == b_j and M[i][j] == v(a_i) + M[i-1][j-1]
     add a_i to front of result
     i = i - 1

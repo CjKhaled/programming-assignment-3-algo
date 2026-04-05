@@ -1,0 +1,7 @@
+4
+w 6
+x 4
+y 3
+z 9
+wxyzwxyzwxyzwxyzwxyzwxyzwxyz
+zyxwzyxwzyxwzyxwzyxwzyxwzyxw

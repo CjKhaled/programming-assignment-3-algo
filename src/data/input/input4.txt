@@ -1,0 +1,6 @@
+3
+p 8
+q 3
+r 6
+pqrpqrpqrpqrpqrpqrpqrpqrpq
+rpqrpqrpqrpqrpqrpqrpqrpqrp
