@@ -23,7 +23,8 @@ cb
 
 ### Run the benchmarker and generate the runtime graph
 ```bash
-python3 src/graph.py
+cd src/
+python3 graph.py
 ```
 Output files will be saved to `src/data/output/` and the graph to `src/results/runtime_graph.png`.
 
