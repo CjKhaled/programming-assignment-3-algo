@@ -1,3 +1,41 @@
+# Highest Value Longest Common Subsequence (HVLCS)
+
+## Students
+- Gabriel Burger UFID: 89739533
+- CJ Alexander UFID: 51691777
+
+## How to Run
+
+### Run the solver
+```bash
+python3 src/hvlcs.py src/data/input/input1.txt
+```
+
+### Reproduce the worked example
+```bash
+python3 src/hvlcs.py src/examples/examplein.txt
+```
+Expected output:
+```
+9
+cb
+```
+
+### Run the benchmarker and generate the runtime graph
+```bash
+python3 src/graph.py
+```
+Output files will be saved to `src/data/output/` and the graph to `src/results/runtime_graph.png`.
+
+## Dependencies
+- Python
+- matplotlib (`pip install matplotlib`)
+
+## Question 1
+![Runtime Graph](src/results/runtime_graph.png)
+
+Ten input files were generated with string lengths ranging from 25x25 up to 500x500. Runtime grows as input size increases, consistent with the **O(mn)** complexity.
+
 ## Question 2
 
 OPT(i, j) is the maximum value common subsequence of a_1...a_i and b_1...b_j
@@ -62,3 +100,5 @@ while i > 0 and j > 0           # runtime is O(m + n)
 
 return result
 ```
+
+Overall runtime is O(mn) for the DP table and O(m + n) for the traceback, giving a total runtime of **O(mn)**.
