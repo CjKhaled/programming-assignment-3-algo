@@ -1,7 +1,13 @@
-4
+10
 a 3
 b 7
 c 2
 d 5
-abcdabcdabcdabcdabcdabcdabc
-dcbaabcddcbaabcddcbaabcdabc
+e 4
+f 6
+g 1
+h 8
+i 3
+j 9
+baeddcbibjgaabddijaidigdh
+jeacgfecdfbbgbffjeahibgbi

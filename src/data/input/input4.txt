@@ -1,6 +1,13 @@
-3
-p 8
-q 3
-r 6
-pqrpqrpqrpqrpqrpqrpqrpqrpq
-rpqrpqrpqrpqrpqrpqrpqrpqrp
+10
+a 3
+b 7
+c 2
+d 5
+e 4
+f 6
+g 1
+h 8
+i 3
+j 9
+iceejdfdeiheabgeaafcechigiabbciafjicgcaefafddbfigjcdccgacfgdecbgahddhfeddadgfebefigifabecjeabjgffgjibgjdeagaiidfgbfjfbeiegfgeicdggcjjegiaeedgjjfhhhdih
+cbeijfbdeddcaadhjbhgjdghgdcabgdcihaidbhchiijfhjigihchhedeihdehbedeffibccdgcdbggfihgadggjajghafeggiijdhdeghagfgchcjiagjjabgchcaegfdhffgegebhaiafdbaadda

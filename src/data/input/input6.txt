@@ -1,7 +1,13 @@
-4
-m 4
-n 9
-o 2
-p 7
-mnopmnopmnopmnopmnopmnopmnop
-ponmponmponmponmponmponmponm
+10
+a 3
+b 7
+c 2
+d 5
+e 4
+f 6
+g 1
+h 8
+i 3
+j 9
+figfhiajbdedbgbbhceaafaeffgcdigjcccbjgjdhjcdheheaheicbhfjegehedghbdgjfjeeageajajhedjfddjecbaehajfcbefgcdcifiiecehefbhbcdgifbgaeibhfejgfbdhajifjdbhegbcaaehbbdicghfigjcgbhjgeafdhhdfbfifagedbhbdjaafdcjdbidjddfcjaecciecbacafdjfaceacgibbhhfijbhidjaiehaahg
+gbhhbbfjcbcejjifgjiehijgbbidghdgfhggbfgfefchbbbbgbfciajiifbgfgaejefbjidchdbfifbejdgijjiajeaceeffaccjgbcabidgghfcfefjjbaccjabehghjhgedibfgbejhieadgjaadedceefbahgccgidiifbgagahbfjgjggebgafcjhfbgbdgjgibgefdfcbibiidffcdbcedcjcbchhjjhjjffchbhheejafibehhaa
